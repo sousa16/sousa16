@@ -1,7 +1,7 @@
-# 👋 Hey, I’m João (sousa16)
+# 👋 Hey, I’m João!
 
 🎓 Computer Science Gradute @ Instituto Superior Técnico (25') <br>
-🔐 Aspiring Network/Security Engineer | 🏴‍☠️ CTF Player  
+🔐 Aspiring Network/Security Engineer | 🏴‍☠️ CTF Player @ [STT](https://sectt.github.io/)
 
 I’m currently tackling my growth in **offensive security**, with a strong focus on **web exploitation** and **CTFs**.  
 Alongside security, I’m also building a solid foundation in **networking (CCNA)** as part of my upcoming internship at Cisco.  
