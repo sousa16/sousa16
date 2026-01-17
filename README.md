@@ -11,7 +11,7 @@ Alongside security, I’m also building a solid foundation in **networking (CCNA
 ## 🚀 What I’m Working On
 
 - 🏴‍☠️ **CTFs & Write-ups** → [ctf-writeups](https://github.com/sousa16/ctf-writeups)  
-- 📚 **Cisco Networking (CCNA)** → preparing ahead of my Cisco TAC internship  
+- 📚 **Chesslab** → [Chesslab](https://github.com/sousa16/chesslab)  
 
 ---
 
