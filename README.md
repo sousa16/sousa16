@@ -4,9 +4,9 @@
 🔐 TAC Intern at Cisco TAC Server Virtualization
 
 
-I'm currently expanding my knowledge in the server virtualization world by pursuing the CCNP Data Center certification - DCAI specialization. <br>
-I have strong interests in **networking**, **offensive security**, and **automation**. <br>
-Currently, I hold CCNA and CCNA Automation certifications, and have passed the DCCOR exam.
+I'm currently building deep expertise in **Linux internals**, **distributed systems**, and **kernel networking**. <br>
+I have strong interests in **systems programming**, **networking**, and **automation**. <br>
+Currently hold **CCNA**, **CCNA Automation**, and **DCCOR** certifications, and am pursuing **CCNP Data Center (DCAI)**.
 
 ---
 
@@ -28,8 +28,7 @@ Currently, I hold CCNA and CCNA Automation certifications, and have passed the D
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/distributed-control_plane-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/linux-systems-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ebpf-xdp-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ccnp-data_center-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/linux-systems-black?style=for-the-badge" />
 </p>
