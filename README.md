@@ -1,12 +1,12 @@
 # 👋 Hey, I’m João!
 
 🎓 Computer Science Gradute @ Instituto Superior Técnico (25') <br>
-🔐 TAC Intern at Cisco TAC Server Virtualization
+🔐 Technical Consulting Engineer @ Cisco TAC Server Virtualization
 
 
 I'm currently building deep expertise in **Linux internals**, **distributed systems**, and **kernel networking**. <br>
 I have strong interests in **systems programming**, **networking**, and **automation**. <br>
-Currently hold **CCNA**, **CCNA Automation**, and **DCCOR** certifications, and am pursuing **CCNP Data Center (DCAI)**.
+Currently hold **CCNP Data Center** and **CCNA Automation**.
 
 ---
 
@@ -21,7 +21,7 @@ Currently hold **CCNA**, **CCNA Automation**, and **DCCOR** certifications, and 
 - Distributed Systems & Control Plane Engineering (Go, Consistent Hashing, Self-Healing Meshes)
 - High-Performance Networking (eBPF, XDP, Kernel Observability)
 - Linux Systems Engineering
-- Data Center Technologies (CCNP DC candidate)
+- Data Center Technologies (CCNP DC)
 - Networking & Automation (CCNA, CCNA Automation)
 - Offensive Security (Web Exploitation, CTFs) 
 
