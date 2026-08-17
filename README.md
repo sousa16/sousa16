@@ -12,7 +12,7 @@ Currently hold **CCNP Data Center** and **CCNA Automation**.
 
 ## 🚀 What I’m Working On
 
-:globe_with_meridians: **Aether** - A Go-based distributed control plane that uses consistent hashing to manage a self-healing BGP network mesh, utilizing XDP/eBPF for a high-performance data plane and kernel-level observability.
+:globe_with_meridians: **XDP eBPF Mitigator** -  a kernel-bypass data plane with a Go control plane managing BPF maps at runtime.
 
 ---
 
